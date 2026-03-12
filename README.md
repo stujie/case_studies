@@ -1,2 +1,1 @@
-# my_portfolio
-A summary of my projects related to data analytics.
+# Case studies I've worked on.
